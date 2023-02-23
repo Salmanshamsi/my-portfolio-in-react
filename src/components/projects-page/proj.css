@@ -1,0 +1,30 @@
+.box
+{
+    padding: 50px;
+}
+.headin
+{
+    padding-left:30px;
+    padding-top: 60px;
+}
+.cardBox
+{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.icons
+{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 30px;
+}
+.icons:hover
+{
+    font-size: 29px;
+    color: rgb(206, 50, 50);
+}
+.card-body
+{
+    background-color: rgb(32, 25, 25);
+}
